@@ -1,0 +1,24 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    }
+
+.First{
+        font-size: 15px;
+        width: 500px;
+        height: 35px;
+        margin: 25px;
+        margin-top: 50px;
+        border-radius: 20px;
+        
+        }
+
+a{
+    color: white;
+    }
